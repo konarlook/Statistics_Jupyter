@@ -1,1 +1,3 @@
-Ex. for Lab
+# Test using Github
+
+Linear and Polymeal regression
